@@ -3,7 +3,7 @@
 - 👋 Computer Science student at Katolicki Uniwersytet Lubelski im. Św. Jana Pawła II w Lublinie<br>
 - 👀 I create full-stack web apps <br>
 - 💞️ I’m looking to collaborate on further learning<br>
-- 📫 How to reach me : adamnowakhomm@gmail.com or adamnowakzapasowe@gmail.com<br>
+- 📫 How to reach me : adamnowakhomm@gmail.com, https://www.linkedin.com/in/adam-nowak04<br>
 
 
 # 💻 Tech Stack:
